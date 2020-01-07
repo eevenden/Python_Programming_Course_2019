@@ -1,0 +1,12 @@
+def Lab1():
+	x = ("What is your radius?")
+	print x
+	rawinput()
+	y = rawinput()
+	area = x ** 2 * 3.14
+	perimeter = 2x * 3.14
+	print "Area =", area
+	print "Perimeter =", perimeter
+	return;
+
+Lab1()
